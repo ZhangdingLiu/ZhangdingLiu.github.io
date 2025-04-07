@@ -17,66 +17,90 @@ I have worked on projects involving **vision-language models**, **flood monitori
 
 Currently, I am actively exploring how to leverage large language models and multimodal data for real-time urban sensing and decision support under extreme events.
 
-# 🚀 RESEARCH EXPERIENCE                                                                     
+# 🚀 RESEARCH EXPERIENCE
 
-## AI-enabled Coastal Community Flood Resilience: Digital Twin Reinforced Emergency Infrastructure Systems 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/flood_vlm.png' alt="flood" width="100%"></div></div>
+## AI-enabled Coastal Community Flood Resilience
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/flood_vlm.png' alt="flood" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-**Knowledge-augmented VLM for Flood Depth Inference**  
-Developed a real-time flood depth and passability assessment framework using GPT-4V and few-shot visual prompting, integrated with satellite, street-level, and traffic data.
-NLP for Crisis Informatics: Fine-tuned DistilBERT for post-hurricane social media data analysis, identifying community needs and improving humanitarian aid allocation.
-Optimized dynamic EMS vehicle staging during urban floods by integrating real-time road closure and flood impact data.
+**Knowledge-Augmented Vision-Language Models for Flood Depth Inference**  
+- Developed a real-time flood depth and passability assessment framework using GPT-4V and few-shot visual prompting, integrated with satellite, street-level, and traffic data.  
+- Fine-tuned DistilBERT for post-hurricane Twitter analysis, identifying community needs and optimizing humanitarian aid allocation.  
+- Integrated dynamic EMS vehicle staging with real-time road closure and flood impact data.
+
 </div></div>
 
+---
 
-## Multi-level Class-Specific Attention Network for Post-Hurricane Damage Assessment
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
+## Multi-Level Attention for Hurricane Damage Classification
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/covid_crowding.png' alt="damage" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-** **  
-Developed a multi-label classification framework combining multiscale feature extraction with a class-specific multi-head residual attention mechanism, enabling fine-grained recognition of co-occurring infrastructure damage types after hurricane.
-Achieved 91.84% mAP on the RescueNet-10 benchmark, outperforming previous SOTA, and contributed to automated disaster impact mapping.
+**Class-Specific Residual Attention Networks**  
+- Developed a multi-label classification framework with multiscale feature extraction and class-specific multi-head attention.  
+- Achieved 91.84% mAP on RescueNet-10, outperforming prior SOTA in co-occurring damage recognition.
+
 </div></div>
 
+---
 
-## Research Assistant at Lawrence Berkeley National Laboratory
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
+## Research Assistant, Lawrence Berkeley National Lab
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/berkeley.png' alt="lab" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-** **  
-Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces. Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
-Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
+**Heat Resilience Mapping and Robotics in HVAC**  
+- Created a Heat Vulnerability Index (HVI) map for Oakland using weather, demographic, and green space data.  
+- Built a web app on CityBES for visualizing HVI to support urban heat mitigation.  
+- Investigated robotics applications in HVAC for safer and more efficient field operations.
+
 </div></div>
 
+---
 
-##Applying Machine Learning Techniques to Improve Epidemiological Models Accounting for Urban Infrastructure Networks, Human Behavioral Change, and Policy Interventions. (AI.Humanity)
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
+## AI for Epidemiological Modeling (AI.Humanity)
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/epidemic_modeling.png' alt="epidemic" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-** **  
-Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
-Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model’s robustness under sparse and noisy data conditions.
+**ML-Based SEIR Parameter Calibration**  
+- Proposed a framework integrating urban density and human mobility to refine disease transmission parameters.  
+- Reduced COVID-19 prediction RMSE by 46% under sparse data.
+
 </div></div>
 
+---
 
-##Synthetic Data Augmentation for Construction Site Automation
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
+## Synthetic Data for Smart Construction
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/synthetic_site.png' alt="synthetic" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-** **  
-Leveraged Unreal Engine (UE4) for multi-angle 3D model generation and Swin Transformer for enhanced background feature extraction. 
-Designed a context-aware object placement algorithm based on KL divergence and content loss, improving dataset realism and achieving +2.1% mAP over real datasets in object detection tasks.                                   
+**UE4 + Transformer for Augmented Datasets**  
+- Used Unreal Engine 4 for multi-angle 3D generation and Swin Transformer for background enhancement.  
+- Designed a KL-divergence-guided placement algorithm improving object realism and +2.1% mAP in detection.
+
 </div></div>
 
+---
 
-##Multi-Object Tracking for Overlapped Construction Workers
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
+## Multi-Object Tracking on Construction Sites
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/mot_construction.png' alt="tracking" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-** **  
-Deployed YOLOv5 for real-time detection of construction workers and PPE compliance in dynamic construction sites.
-Integrated DeepSORT with Kalman filtering and appearance embedding to improve object identity preservation under occlusion and overlap, enabling robust spatiotemporal tracking in high-density scenes.
+**Robust Worker and PPE Tracking in Dense Scenes**  
+- Applied YOLOv5 and DeepSORT with Kalman filters and appearance embeddings for real-time tracking.  
+- Enabled PPE compliance monitoring under frequent occlusion and crowd overlap conditions.
+
 </div></div>
 
 
