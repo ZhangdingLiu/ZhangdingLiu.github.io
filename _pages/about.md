@@ -1,13 +1,17 @@
-{% comment %}
+
+
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Zhangding Liu | Georgia Tech"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+
+{% comment %}
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -211,15 +215,7 @@ Yuan Yang, **Siheng Xiong**, Ali Payani, James C Kerce, Faramarz Fekri
 {% endcomment %}
 
 
----
-permalink: /
-title: ""
-excerpt: "Zhangding Liu | Georgia Tech"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
+
 
 <span class='anchor' id='about-me'></span>
 
