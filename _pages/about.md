@@ -37,5 +37,5 @@ Using deep learning to adjust SEIR parameters with urban density data, improving
 
 </div></div>
 
-
+📄 [Download my CV (PDF)](assets/ZhangdingLiu_CV.pdf)
 
