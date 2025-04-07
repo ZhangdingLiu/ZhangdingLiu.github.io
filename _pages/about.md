@@ -29,6 +29,7 @@ NLP for Crisis Informatics: Fine-tuned DistilBERT for post-hurricane social medi
 Optimized dynamic EMS vehicle staging during urban floods by integrating real-time road closure and flood impact data.
 </div></div>
 
+
 ## Multi-level Class-Specific Attention Network for Post-Hurricane Damage Assessment
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,6 +39,7 @@ Developed a multi-label classification framework combining multiscale feature ex
 Achieved 91.84% mAP on the RescueNet-10 benchmark, outperforming previous SOTA, and contributed to automated disaster impact mapping.
 </div></div>
 
+
 ## Research Assistant at Lawrence Berkeley National Laboratory
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,6 +47,8 @@ Achieved 91.84% mAP on the RescueNet-10 benchmark, outperforming previous SOTA, 
 ** **  
 Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces. Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
 Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
+</div></div>
+
 
 ##Applying Machine Learning Techniques to Improve Epidemiological Models Accounting for Urban Infrastructure Networks, Human Behavioral Change, and Policy Interventions. (AI.Humanity)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
@@ -53,6 +57,8 @@ Explored robotics applications in HVAC systems to enhance quality, safety, and e
 ** **  
 Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
 Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model’s robustness under sparse and noisy data conditions.
+</div></div>
+
 
 ##Synthetic Data Augmentation for Construction Site Automation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
@@ -61,6 +67,8 @@ Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating 
 ** **  
 Leveraged Unreal Engine (UE4) for multi-angle 3D model generation and Swin Transformer for enhanced background feature extraction. 
 Designed a context-aware object placement algorithm based on KL divergence and content loss, improving dataset realism and achieving +2.1% mAP over real datasets in object detection tasks.                                   
+</div></div>
+
 
 ##Multi-Object Tracking for Overlapped Construction Workers
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/covid_crowding.png' alt="covid" width="100%"></div></div>
@@ -69,6 +77,7 @@ Designed a context-aware object placement algorithm based on KL divergence and c
 ** **  
 Deployed YOLOv5 for real-time detection of construction workers and PPE compliance in dynamic construction sites.
 Integrated DeepSORT with Kalman filtering and appearance embedding to improve object identity preservation under occlusion and overlap, enabling robust spatiotemporal tracking in high-density scenes.
+</div></div>
 
 
 📄 [Download my CV (PDF)](assets/ZhangdingLiu_CV.pdf)
