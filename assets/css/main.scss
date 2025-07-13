@@ -106,11 +106,11 @@ h1:before, .anchor:before {
 }
 
 // Specific image sizes for different projects
-.synthetic-image {
-    max-width: 700px !important;  // 1.6x larger than default 140px
+.paper-box-image .synthetic-image {
+    max-width: 700px !important;  // Synthetic project specific size
 }
 
-.mcanet-image {
+.paper-box-image .mcanet-image {
     max-width: 600px !important;  // MCANet project specific size
 }
 
