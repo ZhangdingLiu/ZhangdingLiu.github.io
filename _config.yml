@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Zhangding Liu"
-description              : "Ph.D. Student at Georgia Tech"
+# description              : "Ph.D. Student at Georgia Tech"
 repository               : "ZhangdingLiu/ZhangdingLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,13 +30,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://zhangdingliu.github.io/"
+  github           : "ZhangdingLiu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhangding/"  # ← 如果你有 LinkedIn 可填 username
+  linkedin         : "zhangding"  # ← 如果你有 LinkedIn 可填 username
   dblp             : 
   orcid            : 
   pinterest        :

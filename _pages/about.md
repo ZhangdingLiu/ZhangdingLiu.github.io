@@ -71,7 +71,7 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 - Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
 - Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model’s robustness under sparse and noisy data conditions.
 
-</div></div>
+<!-- </div></div> -->
 
 ---
 
