@@ -105,6 +105,11 @@ h1:before, .anchor:before {
     }
 }
 
+// Specific image sizes for different projects
+.synthetic-image {
+    max-width: 224px !important;  // 1.6x larger than default 140px
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
