@@ -34,7 +34,7 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 
 ## MCANet: Multi-Label Damage Classification for Rapid Post-Hurricane Damage Assessment with UAV Images
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='/images/mcanet.png' alt="mcanet" width="100%"></div>
+  <div><img src='/images/mcanet.png' alt="mcanet" width="100%" class="mcanet-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 

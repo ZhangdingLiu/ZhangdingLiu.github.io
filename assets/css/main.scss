@@ -56,7 +56,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 140px;
+            max-width: 160px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -107,7 +107,11 @@ h1:before, .anchor:before {
 
 // Specific image sizes for different projects
 .synthetic-image {
-    max-width: 224px !important;  // 1.6x larger than default 140px
+    max-width: 550px !important;  // 1.6x larger than default 140px
+}
+
+.mcanet-image {
+    max-width: 400px !important;  // MCANet project specific size
 }
 
 .badge {
