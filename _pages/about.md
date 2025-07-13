@@ -77,7 +77,7 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 
 ## Synthetic Data for Smart Construction
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/synthetic.png' alt="synthetic" width="100%"></div>
+  <div><img src='images/synthetic.jpg' alt="synthetic" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
