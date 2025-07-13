@@ -62,10 +62,10 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 ---
 
 ## AI for Epidemiological Modeling (AI.Humanity)
-<div class='paper-box'><div class='paper-box-image'>
+<!-- <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/epidemic_modeling.png' alt="epidemic" width="100%"></div>
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 **ML-Based SEIR Parameter Calibration**  
 - Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
