@@ -34,7 +34,7 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 
 ## MCANet: Multi-Label Damage Classification for Rapid Post-Hurricane Damage Assessment with UAV Images
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/mcanet.png' alt="damage" width="100%"></div>
+  <div><img src='images/mcanet.png' alt="mcanet" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +57,7 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 - Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning. 
 - Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
 
-</div></div>
+<!-- </div></div> -->
 
 ---
 
