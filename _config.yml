@@ -16,11 +16,11 @@ baidu_site_verification  :
 author:
   name             : "Zhangding Liu"
   avatar           : "images/avatar.jpg"
-  bio              : "Ph.D. Student in Civil Engineering (Minor in CS), M.S. in Computational Science and Engineering"
+  bio              : "Ph.D. Student"
   location         : "Atlanta, Georgia"
   employer         : "Georgia Institute of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XXXXXX"  # ← 你可以填上你自己的 Scholar 链接
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fPt_PCUAAAAJ"  # ← 你可以填上你自己的 Scholar 链接
   email            : "zliu952@gatech.edu"
   researchgate     : 
   uri              :
@@ -30,13 +30,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhangdingLiu"
+  github           : "https://zhangdingliu.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : zhangdingliu  # ← 如果你有 LinkedIn 可填 username
+  linkedin         : "https://www.linkedin.com/in/zhangding/"  # ← 如果你有 LinkedIn 可填 username
   dblp             : 
   orcid            : 
   pinterest        :
@@ -44,7 +44,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@ZhangdingLiu"  # 如果你没有 Twitter 可以删掉这一行
+  # twitter          : "@ZhangdingLiu"  # 如果你没有 Twitter 可以删掉这一行
   vine             :
   weibo            :
   xing             :
