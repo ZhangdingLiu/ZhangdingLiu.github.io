@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m **Zhangding Liu**, a Ph.D. student at Georgia Tech working on **LLM**, **multimodal learning**, **digital twin**, and **urban intelligence**. I also hold an M.S. degree in **Computational Science and Engineering** from Georgia Tech.
+Hello! I’m **Zhangding Liu**, a CSE Ph.D. student at Georgia Tech working on **LLM**, **multimodal learning**, **digital twin**, and **urban intelligence**. I also hold an M.S. degree in **Computational Science and Engineering** from Georgia Tech.
 
 My recent work spans **vision-language models**, **domain knowledge graph**, **disaster assessment**, and **disaster response**. I aim to build real-time, reliable, AI-driven systems that support critical decision-making under extreme conditions.
 
@@ -90,4 +90,5 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 ---
 
 📄 [Download my CV (PDF)](assets/ZhangdingLiu_CV.pdf)
+
 
