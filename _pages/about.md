@@ -11,12 +11,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m **Zhangding Liu**, a CSE Ph.D. student at Georgia Tech working on **LLM**, **multimodal learning**, **digital twin**, and **urban intelligence**. I also hold an M.S. degree in **Computational Science and Engineering** from Georgia Tech.
+## 👋 Hi, I am Zhangding Liu
 
-My recent work spans **vision-language models**, **domain knowledge graph**, **disaster assessment**, and **disaster response**. I aim to build real-time, reliable, AI-driven systems that support critical decision-making under extreme conditions.
+I am a Research Assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**. My research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
+
+I have collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
+
+With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges. 
+
 
 
 # 🚀 RESEARCH EXPERIENCE
+
+## SymPlanner: Deliberate Planning with Symbolic Representations
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/symplanner.png' alt="symplanner" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+- Developed **SymPlanner**, a framework augmenting LLMs with symbolic world models for multi-step planning. Introduced **iterative correction** and **contrastive ranking** to enhance reasoning reliability.  
+- Built a full pipeline with **policy model, symbolic simulator, and discriminator**, achieving up to **54% accuracy** on PlanBench long-horizon tasks. Outperformed CoT, ToT, and RAP baselines by **2–3×**.   
+</div></div>
+
+---
 
 ## FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph
 <div class='paper-box'><div class='paper-box-image'>
@@ -90,5 +107,6 @@ My recent work spans **vision-language models**, **domain knowledge graph**, **d
 ---
 
 📄 [Download my CV (PDF)](assets/ZhangdingLiu_CV.pdf)
+
 
 
