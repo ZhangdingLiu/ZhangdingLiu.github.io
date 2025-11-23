@@ -60,8 +60,34 @@ $(document).ready(function(){
   // init smooth scroll
   $("a").smoothScroll({offset: -20});
 
+  // Back to Top button
+  $('body').append('<a href="#" id="back-to-top" title="Back to Top">↑</a>');
+
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 300) {
+      $('#back-to-top').addClass('show');
+    } else {
+      $('#back-to-top').removeClass('show');
+    }
+  });
+
+  $('#back-to-top').click(function(e) {
+    e.preventDefault();
+    $('html, body').animate({scrollTop: 0}, 600);
+    return false;
+  });
+
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+
+  // Add lightbox to project images
+  $(".paper-box-image img").each(function() {
+    var $img = $(this);
+    var src = $img.attr('src');
+    if (!$img.parent().is('a')) {
+      $img.wrap('<a href="' + src + '" class="image-popup"></a>');
+    }
+  });
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({

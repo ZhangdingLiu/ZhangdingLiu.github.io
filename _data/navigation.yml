@@ -3,20 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Featured Projects"
-    url: "/#-featured-projects"
+  - title: "Research Experience"
+    url: "/#research-experience"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Publications"
+    url: "/#publications"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
-  - title: "Internship"
-    url: "/#-internship"
+  - title: "Honors & Awards"
+    url: "/#honors"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Contact"
+    url: "/#contact"
