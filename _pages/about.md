@@ -17,9 +17,11 @@ I am a Research Assistant and Ph.D. student in **Computational Science and Engin
 
 I have collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
 
-With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges. 
+With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges.
 
 
+
+<span class='anchor' id='research-experience'></span>
 
 # 🚀 RESEARCH EXPERIENCE
 
