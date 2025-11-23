@@ -106,6 +106,14 @@ h1:before, .anchor:before {
 }
 
 // Specific image sizes for different projects
+.paper-box-image .symplanner-image {
+    max-width: 600px !important;  // SymPlanner project specific size
+}
+
+.paper-box-image .floodvision-image {
+    max-width: 600px !important;  // FloodVision project specific size
+}
+
 .paper-box-image .synthetic-image {
     max-width: 700px !important;  // Synthetic project specific size
 }

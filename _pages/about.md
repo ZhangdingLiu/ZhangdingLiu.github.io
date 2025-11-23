@@ -25,7 +25,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 ## SymPlanner: Deliberate Planning with Symbolic Representations
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/symplanner.png' alt="symplanner" width="100%"></div>
+  <div><img src='images/symplanner.png' alt="symplanner" width="100%" class="symplanner-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +37,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 ## FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/floodvlm.png' alt="flood" width="100%"></div>
+  <div><img src='images/floodvlm.png' alt="flood" width="100%" class="floodvision-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
