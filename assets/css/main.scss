@@ -132,3 +132,95 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Back to Top button
+#back-to-top {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 9999;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    background: #00369f;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: opacity 0.2s ease-out, background-color 0.2s ease-out;
+    opacity: 0;
+    pointer-events: none;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+
+    &:hover {
+        background: #0052cc;
+    }
+
+    &.show {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    // Responsive design for mobile
+    @media (max-width: 768px) {
+        bottom: 20px;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 0.9em;
+    }
+}
+
+// Mobile responsive improvements
+@media (max-width: 768px) {
+    // Improve paper box layout on mobile
+    .paper-box {
+        padding: 1em 0;
+
+        .paper-box-image {
+            margin-bottom: 1em;
+
+            img {
+                max-width: 100% !important;
+            }
+        }
+
+        .paper-box-text {
+            font-size: 0.95em;
+        }
+    }
+
+    // Adjust badge position on mobile
+    .badge {
+        position: relative;
+        display: inline-block;
+        margin-top: 0.3em;
+        margin-left: 0;
+        margin-bottom: 0.5em;
+    }
+
+    // Improve section headings on mobile
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h2 {
+        font-size: 1.4em;
+    }
+
+    // Better spacing for content
+    .page__content {
+        p {
+            font-size: 1em;
+        }
+    }
+}
+
+// Tablet improvements
+@media (min-width: 769px) and (max-width: 1024px) {
+    .paper-box-image img {
+        max-width: 400px !important;
+    }
+}
