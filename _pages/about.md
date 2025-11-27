@@ -158,17 +158,38 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 🎓 EDUCATION
 
-- **Ph.D. in Computational Science and Engineering**
-  Georgia Institute of Technology, Atlanta, GA
-  *Expected 2027* | Advisor: [Dr. John E. Taylor](https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en)
+<div style="margin-bottom: 1.5em;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <strong style="font-size: 1.1em;">Ph.D. in Computational Science and Engineering</strong>
+    <span style="color: #666; font-style: italic;">2023 – Expected 2027</span>
+  </div>
+  <div style="color: #555; margin-top: 0.3em;">
+    Georgia Institute of Technology, Atlanta, GA
+  </div>
+  <div style="margin-top: 0.3em;">
+    <em>Advisor:</em> <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en">Dr. John E. Taylor</a>
+  </div>
+</div>
 
-- **M.S. in Computational Science and Engineering**
-  Georgia Institute of Technology, Atlanta, GA
-  *2024*
+<div style="margin-bottom: 1.5em;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <strong style="font-size: 1.1em;">M.S. in Computational Science and Engineering</strong>
+    <span style="color: #666; font-style: italic;">2023 – 2026</span>
+  </div>
+  <div style="color: #555; margin-top: 0.3em;">
+    Georgia Institute of Technology, Atlanta, GA
+  </div>
+</div>
 
-- **B.Eng. in Artificial Intelligence in Civil Engineering**
-  Tongji University, Shanghai, China
-  *Sep 2019 – Jun 2023*
+<div style="margin-bottom: 1.5em;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline;">
+    <strong style="font-size: 1.1em;">B.Eng. in Artificial Intelligence in Civil Engineering</strong>
+    <span style="color: #666; font-style: italic;">Sep 2019 – Jun 2023</span>
+  </div>
+  <div style="color: #555; margin-top: 0.3em;">
+    Tongji University, Shanghai, China
+  </div>
+</div>
 
 ---
 
@@ -176,11 +197,9 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 🏆 HONORS AND AWARDS
 
-- **Gilbert F. "Gil" Amelio Engineering Fellowship** - Georgia Institute of Technology, 2023
-  *Prestigious fellowship awarded to outstanding doctoral students in engineering*
+- **Gilbert F. "Gil" Amelio Engineering Fellowship** - Georgia Institute of Technology
 
 - **First-Class Scholarship** - Tongji University
-  *Awarded for academic excellence during undergraduate studies*
 
 ---
 
@@ -188,7 +207,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 📬 CONTACT
 
-- **Email**: zliu952@gatech.edu
+- **Email**: zliu952 (replace "AT" with "@") gatech (replace "DOT" with ".") edu
 - **GitHub**: [github.com/ZhangdingLiu](https://github.com/ZhangdingLiu)
 - **LinkedIn**: [linkedin.com/in/zhangding](https://linkedin.com/in/zhangding)
 - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en)
