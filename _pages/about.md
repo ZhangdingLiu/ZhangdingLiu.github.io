@@ -67,7 +67,7 @@ I welcome research collaborations and academic discussions in related areas.
 - Achieved 8.17 cm error on real-world crowdsourced images, improving over prior methods by 20%.
 - Supports real-time deployment for smart city flood monitoring and digital twins.
 
-[[Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
+[[Paper (in preparation)](https://zhangdingliu.github.io/)] [[Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
 
 </div></div>
 
