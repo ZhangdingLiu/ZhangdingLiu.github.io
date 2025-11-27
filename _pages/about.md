@@ -13,7 +13,7 @@ redirect_from:
 
 ## 👋 Hi, I am Zhangding Liu
 
-I am a Research Assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**. My research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
+I am a graduate research assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en">Prof. John E. Taylor</a>. My research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
 
 I have collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
 
@@ -31,7 +31,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2024** | *Machine Learning, Planning, LLM*
+**2025** | *Machine Learning, Planning, LLM*
 
 - Developed **SymPlanner**, a framework augmenting LLMs with symbolic world models for multi-step planning. Introduced **iterative correction** and **contrastive ranking** to enhance reasoning reliability.
 - Built a full pipeline with **policy model, symbolic simulator, and discriminator**, achieving up to **54% accuracy** on PlanBench long-horizon tasks. Outperformed CoT, ToT, and RAP baselines by **2–3×**.
@@ -47,7 +47,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2024** | *Computer Vision, Foundation Models, Smart Cities*
+**2025** | *Computer Vision, Foundation Models, Smart Cities*
 
 - Developed a spatial reasoning framework for flood depth estimation by integrating GPT-4o with a domain knowledge graph.
 - Achieved 8.17 cm error on real-world crowdsourced images, improving over prior methods by 20%.
@@ -65,7 +65,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2024** | *Computer Vision, Disaster Response, Deep Learning*
+**2025** | *Computer Vision, Disaster Response, Deep Learning*
 
 - Proposed MCANet, a Res2Net-based multi-scale framework with class-specific residual attention for post-hurricane damage classification.
 - Achieved 92.35% mAP on the RescueNet UAV dataset, outperforming ResNet, ViT, EfficientNet, and other baselines.
@@ -115,7 +115,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2024** | *Computer Vision, Synthetic Data, Construction AI*
+**2025** | *Computer Vision, Synthetic Data, Construction AI*
 
 **UE4 + Transformer for Augmented Datasets**
 - Developed a context-aware synthetic image generation pipeline for construction machinery detection, integrating Swin Transformer into the PlaceNet framework to improve geometric consistency in object placement.
@@ -130,27 +130,9 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 📝 PUBLICATIONS
 
-## Conference Papers
+For a complete list of my publications, please visit my **Google Scholar** profile:
 
-1. **SymPlanner: Deliberate Planning with Symbolic Representations**
-   *Authors TBD*
-   Conference/Journal TBD, Year
-   [[Paper](#)] [[Code](#)]
-
-2. **FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models**
-   *Authors TBD*
-   Conference/Journal TBD, Year
-   [[Paper](#)] [[Code](#)]
-
-3. **MCANet: Multi-Label Damage Classification for Rapid Post-Hurricane Damage Assessment**
-   *Authors TBD*
-   Conference/Journal TBD, Year
-   [[Paper](#)] [[Code](#)]
-
-4. **Synthetic Data Generation for Smart Construction**
-   *Authors TBD*
-   Conference/Journal TBD, Year
-   [[Paper](#)] [[Code](#)]
+- **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en)
 
 ---
 
@@ -165,9 +147,6 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
   </div>
   <div style="color: #555; margin-top: 0.3em;">
     Georgia Institute of Technology, Atlanta, GA
-  </div>
-  <div style="margin-top: 0.3em;">
-    <em>Advisor:</em> <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en">Dr. John E. Taylor</a>
   </div>
 </div>
 
@@ -210,7 +189,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - **Email**: zliu952 (replace "AT" with "@") gatech (replace "DOT" with ".") edu
 - **GitHub**: [github.com/ZhangdingLiu](https://github.com/ZhangdingLiu)
 - **LinkedIn**: [linkedin.com/in/zhangding](https://linkedin.com/in/zhangding)
-- **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en)
+<!-- - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en) -->
 
 ---
 
