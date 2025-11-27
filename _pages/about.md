@@ -201,7 +201,6 @@ For a complete list of my publications, please visit my **Google Scholar** profi
 # 📬 CONTACT
 
 - **Email**: zliu952 (replace "AT" with "@") gatech (replace "DOT" with ".") edu
-- **GitHub**: [github.com/ZhangdingLiu](https://github.com/ZhangdingLiu)
 - **LinkedIn**: [linkedin.com/in/zhangding](https://linkedin.com/in/zhangding)
 <!-- - **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en) -->
 
