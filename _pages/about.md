@@ -13,11 +13,21 @@ redirect_from:
 
 ## 👋 Hi, I am Zhangding Liu
 
-I am a graduate research assistant and Ph.D. student in **Computational Science and Engineering** at **Georgia Institute of Technology**, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en">Prof. John E. Taylor</a>. My research focuses on **machine learning**, **multimodal learning**, and **large language models**, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments. 
+<div style="font-size: 1.05em; line-height: 1.8; color: #333;">
 
-I have collaborated with leading researchers and industry partners, including **Lawrence Berkeley National Laboratory**, **Partnership for Innovation**, and **Emergency Services Departments**, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins. 
+<p style="margin-bottom: 1.2em;">
+I am a Ph.D. student in <strong style="color: #003057; font-weight: 600;">Computational Science and Engineering</strong> at <strong style="color: #003057; font-weight: 600;">Georgia Institute of Technology</strong>, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en" style="color: #B3A369; text-decoration: none; font-weight: 500;">Prof. John E. Taylor</a>. My research focuses on <strong style="color: #003057; font-weight: 600;">machine learning</strong>, <strong style="color: #003057; font-weight: 600;">multimodal learning</strong>, and <strong style="color: #003057; font-weight: 600;">large language models</strong>, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments.
+</p>
 
+<p style="margin-bottom: 1.2em;">
+I have collaborated with leading researchers and industry partners, including <strong style="color: #003057; font-weight: 600;">Lawrence Berkeley National Laboratory</strong>, <strong style="color: #003057; font-weight: 600;">Partnership for Innovation</strong>, and <strong style="color: #003057; font-weight: 600;">Emergency Services Departments</strong>, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins.
+</p>
+
+<p style="margin-bottom: 1.2em;">
 With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges.
+</p>
+
+</div>
 
 
 
@@ -47,13 +57,12 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1">
 
+**Research Assistant Intern**, *Partnership for Innovation*
 **2025** | *Computer Vision, Foundation Models, Smart Cities*
 
 - Developed a spatial reasoning framework for flood depth estimation by integrating GPT-4o with a domain knowledge graph.
 - Achieved 8.17 cm error on real-world crowdsourced images, improving over prior methods by 20%.
 - Supports real-time deployment for smart city flood monitoring and digital twins.
-
-[[Paper](#)] [[Code](#)] [[Demo](#)]
 
 </div></div>
 
@@ -76,13 +85,14 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 ---
 
-## Research Assistant, Lawrence Berkeley National Lab
+## Heat Resilience Mapping and Robotics in HVAC
 <!-- <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/berkeley.png' alt="lab" width="100%"></div>
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-**Heat Resilience Mapping and Robotics in HVAC**
+**Research Assistant Intern**, *Lawrence Berkeley National Laboratory*
+
 - Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces.
 - Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
 - Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
