@@ -37,7 +37,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Developed **SymPlanner**, a framework augmenting LLMs with symbolic world models for multi-step planning. Introduced **iterative correction** and **contrastive ranking** to enhance reasoning reliability.
 - Built a full pipeline with **policy model, symbolic simulator, and discriminator**, achieving up to **54% accuracy** on PlanBench long-horizon tasks. Outperformed CoT, ToT, and RAP baselines by **2–3×**.
 
-[[Paper](#)] [[Code](#)] [[Slides](#)]
+[[Paper](https://arxiv.org/abs/2505.01479)]
 </div></div>
 
 ---
@@ -74,7 +74,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Achieved 92.35% mAP on the RescueNet UAV dataset, outperforming ResNet, ViT, EfficientNet, and other baselines.
 - Enables fast, interpretable multi-label assessment of co-occurring damage types to support emergency response and digital twin systems.
 
-[[Paper](#)] [[Code](#)] [[Dataset](#)]
+[[Paper](https://arxiv.org/abs/2509.04757)] [[Code](#)] [[Dataset](#)]
 </div></div>
 
 ---
@@ -100,9 +100,11 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-**ML-Based SEIR Parameter Calibration**  
+**ML-Based SEIR Parameter Calibration**
 - Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
-- Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model’s robustness under sparse and noisy data conditions.
+- Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model's robustness under sparse and noisy data conditions.
+
+[[Paper](https://www.researchsquare.com/article/rs-7330194/v1)]
 
 <!-- </div></div> -->
 
@@ -121,7 +123,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Developed a context-aware synthetic image generation pipeline for construction machinery detection, integrating Swin Transformer into the PlaceNet framework to improve geometric consistency in object placement.
 - Created the S-MOCS synthetic dataset with multi-angle foregrounds and context-aware object placement, achieving more robust detection of small and unusually oriented machinery, and outperforming real-world datasets by 2.1% mAP in object detection tasks.
 
-[[Paper](#)] [[Code](#)] [[Dataset](#)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2666165925000109)] [[Code](#)] [[Dataset](#)]
 </div></div>
 
 ---
@@ -164,15 +166,15 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 - **Ph.D. in Computational Science and Engineering**
   Georgia Institute of Technology, Atlanta, GA
-  *Expected Year* | Advisor: *TBD*
+  *Expected 2027* | Advisor: [Dr. John E. Taylor](https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en)
 
-- **Master of Science in [Your Major]**
-  *University Name*, *Location*
-  *Graduation Year*
+- **M.S. in Computational Science and Engineering**
+  Georgia Institute of Technology, Atlanta, GA
+  *2024*
 
-- **Bachelor of Science in [Your Major]**
-  *University Name*, *Location*
-  *Graduation Year*
+- **B.Eng. in Artificial Intelligence in Civil Engineering**
+  Tongji University, Shanghai, China
+  *Sep 2019 – Jun 2023*
 
 ---
 
@@ -180,14 +182,11 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 🏆 HONORS AND AWARDS
 
-- **Award Name** - Organization, Year
-  *Description of the award*
+- **Gilbert F. "Gil" Amelio Engineering Fellowship** - Georgia Institute of Technology, 2023
+  *Prestigious fellowship awarded to outstanding doctoral students in engineering*
 
-- **Award Name** - Organization, Year
-  *Description of the award*
-
-- **Award Name** - Organization, Year
-  *Description of the award*
+- **First-Class Scholarship** - Tongji University
+  *Awarded for academic excellence during undergraduate studies*
 
 ---
 
@@ -195,11 +194,10 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 
 # 📬 CONTACT
 
-- **Email**: your.email@gatech.edu
-- **Office**: *Building, Room Number, Georgia Tech*
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Google Scholar**: [Your Google Scholar Profile](#)
+- **Email**: zliu952@gatech.edu
+- **GitHub**: [github.com/ZhangdingLiu](https://github.com/ZhangdingLiu)
+- **LinkedIn**: [linkedin.com/in/zhangding](https://linkedin.com/in/zhangding)
+- **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=fPt_PCUAAAAJ&hl=en)
 
 ---
 
