@@ -62,12 +62,13 @@ I welcome research collaborations and academic discussions in related areas.
 <div class='paper-box-text' markdown="1">
 
 **2025** | *Computer Vision, Foundation Models, Smart Cities*
+**Research Assistant Intern** · *Partnership for Innovation*
 
 - Developed a spatial reasoning framework for flood depth estimation by integrating GPT-4o with a domain knowledge graph.
 - Achieved 8.17 cm error on real-world crowdsourced images, improving over prior methods by 20%.
 - Supports real-time deployment for smart city flood monitoring and digital twins.
 
-[[Paper (in preparation)](https://zhangdingliu.github.io/)] [[Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
+[[Paper (in preparation)](https://zhangdingliu.github.io/)] [[Full Stack Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
 
 </div></div>
 
