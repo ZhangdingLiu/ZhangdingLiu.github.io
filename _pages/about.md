@@ -89,8 +89,13 @@ I welcome research collaborations and academic discussions in related areas.
 ---
 
 ## Heat Resilience Mapping and Robotics in HVAC
+<div class='paper-box'><div class='paper-box-image'>
+  <div><img src='images/robotics.jpg' alt="robotics" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
 
-**2024**  **Research Assistant Intern** | *Lawrence Berkeley National Laboratory*
+**Research Assistant Intern** · *Lawrence Berkeley National Laboratory*
+**2024** | *Urban Heat Resilience, Robotics, HVAC Systems*
 
 - Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces.
 - Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
@@ -98,7 +103,7 @@ I welcome research collaborations and academic discussions in related areas.
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0360132325015148#fig0011)]
 
-<!-- </div></div> -->
+</div></div>
 
 ---
 
@@ -108,7 +113,7 @@ I welcome research collaborations and academic discussions in related areas.
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-**2024** | **Machine Learning, neural network, SIR Parameter Calibration**
+**2024** | **Machine Learning, Neural Network, SIR Parameter Calibration**
 - Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
 - Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model's robustness under sparse and noisy data conditions.
 
