@@ -26,7 +26,6 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 # 🚀 RESEARCH EXPERIENCE
 
 ## SymPlanner: Deliberate Planning with Symbolic Representations
-<span class="badge" style="background-color: #00369f;">Published</span>
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/symplanner.png' alt="symplanner" width="100%" class="symplanner-image"></div>
 </div>
@@ -37,13 +36,12 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Developed **SymPlanner**, a framework augmenting LLMs with symbolic world models for multi-step planning. Introduced **iterative correction** and **contrastive ranking** to enhance reasoning reliability.
 - Built a full pipeline with **policy model, symbolic simulator, and discriminator**, achieving up to **54% accuracy** on PlanBench long-horizon tasks. Outperformed CoT, ToT, and RAP baselines by **2–3×**.
 
-[[Paper](https://arxiv.org/abs/2505.01479)]
+[[Paper](https://openreview.net/forum?id=uJHpaZlIvT)]
 </div></div>
 
 ---
 
 ## FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph
-<span class="badge" style="background-color: #00369f;">Published</span>
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/floodvlm.png' alt="flood" width="100%" class="floodvision-image"></div>
 </div>
@@ -62,7 +60,6 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 ---
 
 ## MCANet: Multi-Label Damage Classification for Rapid Post-Hurricane Damage Assessment with UAV Images
-<span class="badge" style="background-color: #00369f;">Published</span>
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='/images/mcanet.png' alt="mcanet" width="100%" class="mcanet-image"></div>
 </div>
@@ -74,7 +71,7 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Achieved 92.35% mAP on the RescueNet UAV dataset, outperforming ResNet, ViT, EfficientNet, and other baselines.
 - Enables fast, interpretable multi-label assessment of co-occurring damage types to support emergency response and digital twin systems.
 
-[[Paper](https://arxiv.org/abs/2509.04757)] [[Code](#)] [[Dataset](#)]
+[[Paper](https://arxiv.org/abs/2509.04757)]
 </div></div>
 
 ---
@@ -85,10 +82,12 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 </div>
 <div class='paper-box-text' markdown="1"> -->
 
-**Heat Resilience Mapping and Robotics in HVAC**  
-- Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces. 
-- Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning. 
+**Heat Resilience Mapping and Robotics in HVAC**
+- Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces.
+- Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
 - Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
+
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0360132325015148#fig0011)]
 
 <!-- </div></div> -->
 
@@ -111,7 +110,6 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 ---
 
 ## Synthetic Data for Smart Construction
-<span class="badge" style="background-color: #28a745;">Under Review</span>
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/synthetic.jpg' alt="synthetic" width="100%" class="synthetic-image"></div>
 </div>
@@ -123,14 +121,10 @@ With expertise in machine learning, deep learning, and LLMs, as well as a strong
 - Developed a context-aware synthetic image generation pipeline for construction machinery detection, integrating Swin Transformer into the PlaceNet framework to improve geometric consistency in object placement.
 - Created the S-MOCS synthetic dataset with multi-angle foregrounds and context-aware object placement, achieving more robust detection of small and unusually oriented machinery, and outperforming real-world datasets by 2.1% mAP in object detection tasks.
 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S2666165925000109)] [[Code](#)] [[Dataset](#)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2666165925000109)]
 </div></div>
 
 ---
-
-📄 [Download my CV (PDF)](assets/ZhangdingLiu_CV.pdf)
-
-
 
 <span class='anchor' id='publications'></span>
 
