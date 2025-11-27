@@ -90,7 +90,7 @@ I welcome research collaborations and academic discussions in related areas.
 
 ## Heat Resilience Mapping and Robotics in HVAC
 <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/robotics.jpg' alt="robotics" width="100%" class="robotics-image"></div>
+  <div><img src='images/robotics.jpg' alt="robotics" width="100%" class="robotics-image" style="min-width: 400px; width: 120%; margin-left: -10%;"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
