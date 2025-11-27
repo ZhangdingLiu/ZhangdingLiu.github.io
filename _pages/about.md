@@ -13,18 +13,22 @@ redirect_from:
 
 ## 👋 Hi, I am Zhangding Liu
 
-<div style="font-size: 1.05em; line-height: 1.8; color: #333;">
+<div style="font-size: 1.08em; line-height: 1.85; color: #2c3e50; max-width: 900px;">
 
-<p style="margin-bottom: 1.2em;">
-I am a Ph.D. student in <strong style="color: #003057; font-weight: 600;">Computational Science and Engineering</strong> at <strong style="color: #003057; font-weight: 600;">Georgia Institute of Technology</strong>, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en" style="color: #B3A369; text-decoration: none; font-weight: 500;">Prof. John E. Taylor</a>. My research focuses on <strong style="color: #003057; font-weight: 600;">machine learning</strong>, <strong style="color: #003057; font-weight: 600;">multimodal learning</strong>, and <strong style="color: #003057; font-weight: 600;">large language models</strong>, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments.
+<p style="margin-bottom: 1.3em;">
+I am a Ph.D. student in Computational Science and Engineering at Georgia Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en" style="color: #2c3e50; text-decoration: underline; text-decoration-color: #bbb;">Prof. John E. Taylor</a>. My research focuses on machine learning, multimodal learning, and large language models, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments.
 </p>
 
-<p style="margin-bottom: 1.2em;">
-I have collaborated with leading researchers and industry partners, including <strong style="color: #003057; font-weight: 600;">Lawrence Berkeley National Laboratory</strong>, <strong style="color: #003057; font-weight: 600;">Partnership for Innovation</strong>, and <strong style="color: #003057; font-weight: 600;">Emergency Services Departments</strong>, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins.
+<p style="margin-bottom: 1.3em;">
+I have collaborated with leading researchers and industry partners, including Lawrence Berkeley National Laboratory, Partnership for Innovation, and Emergency Services Departments, implementing AI for multimodal data analysis and disaster-aware resilience in smart city digital twins.
 </p>
 
-<p style="margin-bottom: 1.2em;">
+<p style="margin-bottom: 1.3em;">
 With expertise in machine learning, deep learning, and LLMs, as well as a strong background in engineering applications, I am passionate about leveraging AI to address real-world challenges.
+</p>
+
+<p style="margin-bottom: 1.3em;">
+I welcome research collaborations and academic discussions in related areas.
 </p>
 
 </div>
