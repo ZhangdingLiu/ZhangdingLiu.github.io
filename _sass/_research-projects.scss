@@ -1,0 +1,102 @@
+/* Shared layout for research projects. */
+.research-card {
+  display: grid;
+  grid-template-columns: minmax(0, 26%) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+  padding: 2rem 0;
+  border-bottom: 1px solid #eceeef;
+}
+
+.research-visual {
+  position: relative;
+  padding-top: 1.75rem;
+}
+
+.research-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+  object-fit: contain;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .14);
+}
+
+.research-badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  padding: .15rem .5rem;
+  background: #173b8f;
+  color: #fff;
+  font-size: .7rem;
+  line-height: 1.35;
+}
+
+.page__content .research-title {
+  margin: 0 0 .35rem;
+  padding: 0;
+  border: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.page__content .research-content p {
+  margin: 0 0 .55rem;
+  font-size: .9rem;
+  line-height: 1.6;
+}
+
+.page__content .research-content .research-authors {
+  margin-bottom: .3rem;
+}
+
+.page__content .research-content .research-venue,
+.page__content .research-content .research-topics {
+  font-size: .8rem;
+  color: #626970;
+  margin-bottom: .2rem;
+}
+
+.research-topics { font-style: italic; }
+
+.page__content .research-content .research-links {
+  margin: .6rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem 1rem;
+  font-weight: 600;
+}
+
+.page__content .research-content .research-note {
+  margin-top: .6rem;
+  font-size: .8rem;
+  color: #626970;
+}
+
+.page__content .research-content p:last-child { margin-bottom: 0; }
+
+.research-diagram {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .65rem;
+  min-height: 145px;
+  border: 1px solid #e4e9ee;
+  background: #f7f9fb;
+  color: #385775;
+}
+
+.research-diagram span { font-size: 1.65rem; letter-spacing: .08em; }
+.research-diagram small { font-size: .75rem; }
+
+@media (max-width: 640px) {
+  .research-card { grid-template-columns: minmax(0, 1fr); gap: 1.1rem; padding: 1.5rem 0; }
+  .research-visual { width: min(100%, 260px); }
+  .research-visual img { max-height: 180px; }
+  .page__content .research-title { font-size: 1rem; }
+}
