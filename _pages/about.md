@@ -16,7 +16,7 @@ redirect_from:
 <div style="font-size: 1.08em; line-height: 1.85; color: #2c3e50; max-width: 900px;">
 
 <p style="margin-bottom: 1.3em;">
-I am a Ph.D. student in Computational Science and Engineering at Georgia Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=KEBU2PQAAAAJ&hl=en" style="color: #2c3e50; text-decoration: underline; text-decoration-color: #bbb;">Prof. John E. Taylor</a>. My research focuses on machine learning, multimodal learning, and large language models, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments.
+I am a Ph.D. student in Computational Science and Engineering at Georgia Institute of Technology, advised by Prof. John E. Taylor. My research focuses on machine learning, multimodal learning, and large language models, with the goal of advancing AI capabilities in understanding, reasoning, and interacting with complex real-world environments.
 </p>
 
 <p style="margin-bottom: 1.3em;">
@@ -37,53 +37,62 @@ I welcome research collaborations and academic discussions in related areas.
 
 <span class='anchor' id='research-experience'></span>
 
-# 🚀 RESEARCH EXPERIENCE
+# 🚀 SELECTED RESEARCH PROJECTS
 
-## SymPlanner: Deliberate Planning with Symbolic Representations
+## SymPlanner: Deliberate Planning in Language Models with Symbolic Representation
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/symplanner.png' alt="symplanner" width="100%" class="symplanner-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2025** | *Machine Learning, Planning, LLM*
+Siheng Xiong, **Zhangding Liu**, Jieyu Zhou, Yusen Su
 
-- Developed **SymPlanner**, a framework augmenting LLMs with symbolic world models for multi-step planning. Introduced **iterative correction** and **contrastive ranking** to enhance reasoning reliability.
-- Built a full pipeline with **policy model, symbolic simulator, and discriminator**, achieving up to **54% accuracy** on PlanBench long-horizon tasks. Outperformed CoT, ToT, and RAP baselines by **2–3×**.
+**ACS 2025** · *Advances in Cognitive Systems*<br>
+*Machine Learning, Planning, LLMs*
+
+- SymPlanner augments LLMs with symbolic world models for multi-step planning, using iterative correction and contrastive ranking to improve planning reliability.
+- The paper reports **54.2% overall accuracy** on PlanBench with GPT-4.1, compared with 25.0% for four-shot CoT and 24.2% for RAP.
 
 [[Paper](https://openreview.net/forum?id=uJHpaZlIvT)]
 </div></div>
 
 ---
 
-## FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph
+## FloodVision: Knowledge-Guided Vision-Language Inference for Image-Based Urban Flood Depth Estimation
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='images/floodvlm.png' alt="flood" width="100%" class="floodvision-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2025** | *Computer Vision, Foundation Models, Smart Cities*
-**Research Assistant Intern** · *Partnership for Innovation*
+**Zhangding Liu**, Neda Mohammadi, John E. Taylor
 
-- Designed FloodVision, a retrieval-augmented multimodal framework combining GPT-4o with a curated flood knowledge base for image-based flood depth estimation.
-- Architected an AI-enabled Digital Twin for Coastal Flood Resilience, integrating road-closure reports, roadside sensors, and camera feeds to support real-time street level flood monitoring and prediction for emergency response.
+**i3CE 2026** · *Accepted for oral presentation*<br>
+*Computer Vision, Vision-Language Models, Urban Flooding*
 
-[[Paper (in preparation)](https://zhangdingliu.github.io/)] [[Full Stack Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
+- FloodVision combines a general-purpose vision-language model with FloodKG, a domain knowledge base of object dimensions and component landmarks, to estimate flood depth from a single RGB image without task-specific training.
+
+**Related system project** · *Research Assistant Intern, Partnership for Innovation*<br>
+I architected a coastal flood resilience digital twin integrating road-closure reports, roadside sensors, and camera feeds to support street-level flood monitoring and emergency response.
+
+[[Paper](https://arxiv.org/abs/2509.04772)] [[Related Digital Twin Project](https://github.com/ZhangdingLiu/Charleston-Flood-Risk-Digital-Twin?tab=readme-ov-file#flood-digital-twin-dashboard-with-map)]
 
 </div></div>
 
 ---
 
-## MCANet: Multi-Label Damage Classification for Rapid Post-Hurricane Damage Assessment with UAV Images
+## MCANet: A Multi-Scale Class-Specific Attention Network for Multi-Label Post-Hurricane Damage Assessment Using UAV Imagery
 <div class='paper-box'><div class='paper-box-image'>
   <div><img src='/images/mcanet.png' alt="mcanet" width="100%" class="mcanet-image"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2025** | *Computer Vision, Disaster Response, Deep Learning*
+**Zhangding Liu**, Neda Mohammadi, John E. Taylor
 
-- Proposed MCANet, a Res2Net-based multi-scale framework with class-specific residual attention for post-hurricane damage classification.
-- Achieved 92.35% mAP on the RescueNet UAV dataset, outperforming ResNet, ViT, EfficientNet, and other baselines.
-- Enables fast, interpretable multi-label assessment of co-occurring damage types to support emergency response and digital twin systems.
+**Journal of Computing in Civil Engineering** · *Accepted for publication*<br>
+*Computer Vision, Disaster Response, Deep Learning*
+
+- MCANet combines a Res2Net-based multi-scale backbone with class-specific residual attention for multi-label classification of post-hurricane UAV imagery.
+- The paper reports **91.37% mAP** on RescueNet, **1.90 percentage points** above ViT-B/16, supporting assessment of co-occurring damage categories.
 
 [[Paper](https://arxiv.org/abs/2509.04757)]
 </div></div>
@@ -96,32 +105,37 @@ I welcome research collaborations and academic discussions in related areas.
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Research Assistant Intern** · *Lawrence Berkeley National Laboratory*
+**Research Assistant Intern** · *Lawrence Berkeley National Laboratory*<br>
 **2024** | *Urban Heat Resilience, Robotics, HVAC Systems*
 
 - Developed a Heat Vulnerability Index (HVI) map for Oakland, integrating data on weather, demographics, health, and green spaces.
 - Designed a web-based app in CityBES platform to visualize HVI data, enabling better urban heat resilience planning.
-- Explored robotics applications in HVAC systems to enhance quality, safety, and efficiency in installation and maintenance processes.
+- Contributed to a review of robotics applications in HVAC systems, covering installation, inspection, and maintenance.
 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0360132325015148#fig0011)]
+**Related paper: Robotics for HVAC applications: A critical review and future perspectives**
+
+Yilin Jiang, Han Li, Payam Delgoshaei, **Zhangding Liu**, Tianzhen Hong
+
+**Building and Environment · 2026**
+
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0360132325015148)]
 
 </div></div>
 
 ---
 
 ## AI for Epidemiological Modeling (AI.Humanity)
-<!-- <div class='paper-box'><div class='paper-box-image'>
-  <div><img src='images/epidemic_modeling.png' alt="epidemic" width="100%"></div>
-</div>
-<div class='paper-box-text' markdown="1"> -->
+**Adjusting Mechanistic Epidemiological Models to Account for Urban Infrastructure Factors**
 
-**2024** | **Machine Learning, Neural Network, SIR Parameter Calibration**
-- Proposed a machine learning–guided framework to calibrate disease transmission parameters by integrating urban infrastructure density and human mobility constraints.
-- Reduced early-stage COVID-19 case prediction error (RMSE) by 46%, demonstrating the model's robustness under sparse and noisy data conditions.
+Michael M Thomas, **Zhangding Liu**, Neda Mohammadi, John E. Taylor
+
+**Research Square** · *Preprint*<br>
+*Machine Learning, Neural Networks, SIR Parameter Calibration*
+
+- This work combines neural networks with mechanistic epidemiological models to adjust transmission parameters using urban crowding, mobility, and socioeconomic factors.
+- The preprint reports a **45.40% reduction in RMSE** relative to the baseline SIR model in the evaluated early-outbreak setting.
 
 [[Paper](https://www.researchsquare.com/article/rs-7330194/v1)]
-
-<!-- </div></div> -->
 
 ---
 
@@ -131,11 +145,17 @@ I welcome research collaborations and academic discussions in related areas.
 </div>
 <div class='paper-box-text' markdown="1">
 
-**2024** | *Computer Vision, Synthetic Data, Construction AI*
+**Generating synthetic images for construction machinery data augmentation utilizing context-aware object placement**
+
+Yujie Lu, Bo Liu, Wei Wei, Bo Xiao, **Zhangding Liu**, Wensheng Li
+
+**Developments in the Built Environment · 2025**<br>
+*Computer Vision, Synthetic Data, Construction AI*
 
 **UE4 + Transformer for Augmented Datasets**
-- Developed a context-aware synthetic image generation pipeline for construction machinery detection, integrating Swin Transformer into the PlaceNet framework to improve geometric consistency in object placement.
-- Created the S-MOCS synthetic dataset with multi-angle foregrounds and context-aware object placement, achieving more robust detection of small and unusually oriented machinery, and outperforming real-world datasets by 2.1% mAP in object detection tasks.
+
+- This work integrates Unreal Engine, multi-angle foreground capture, and a Swin Transformer-enhanced PlaceNet framework for context-aware construction machinery image synthesis.
+- The paper reports **85.2% mAP** in object detection, **2.1 percentage points** above the real-dataset comparison.
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2666165925000109)]
 </div></div>
